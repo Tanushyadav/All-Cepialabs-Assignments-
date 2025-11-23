@@ -7,7 +7,7 @@ export default function getSiteName() {
 
 //React Component Using Imports
 import React from "react";
-import getSiteName, { siteName, version } from "./Modules"; 
+import getSiteName, { siteName, version } from "./8.Modules"; 
 
 export default function Modules() {
   return (
